@@ -1,1 +1,1 @@
-# credit-risk-classification
+This is a homework assignment to create a logistic regression classifier for bad and good credit risks, grade the classifier then re-sample the original data and run the classification aganm using Python and Pandas. 
